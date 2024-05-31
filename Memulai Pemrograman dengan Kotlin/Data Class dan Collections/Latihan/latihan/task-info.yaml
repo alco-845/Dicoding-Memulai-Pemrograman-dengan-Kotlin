@@ -1,0 +1,15 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+  text: |-
+    Vehicle
+    Type: Motorcycle
+    Maximal Speed: 230Km/s
+    Maximal Tank: 10Ltr
+  learner_created: false
+- name: src/Task.kt
+  visible: true
+  learner_created: true
+status: Solved
+record: -1
